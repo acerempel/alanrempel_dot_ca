@@ -1,2 +1,1 @@
-# alanrempel_dot_ca
-Another website of me
+This is the source code for [alanrempel.ca](https://alanrempel.ca).
